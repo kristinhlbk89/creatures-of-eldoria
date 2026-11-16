@@ -9,13 +9,13 @@
   text-align: center;
 }
 h1 {
-  color: #34495e;
+  color: navy;
   font-size: 2.5rem;
   margin-bottom: 10px;
 }
 body {
   background-color: #f4f4f4;
-  color: #213547;
+  color: navy;
 }
 .creature-card {
   background-color: white;
@@ -25,13 +25,13 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 .creature-card h3 {
-  color: #e76f61;
+  color: orangered;
 }
 .creature-card p strong {
-  color: #34495e;
+  color: navy;
 }
 .creature-card h4 {
-  color: #27ae60;
+  color: green;
 }
 .creature-list {
   display: grid;
@@ -54,7 +54,7 @@ h1 {
   margin-bottom: 30px;
 }
 h2 {
-  color: #34495e;
+  color: navy;
   font-size: 1.5rem;
   margin-bottom: 25px;
 }
